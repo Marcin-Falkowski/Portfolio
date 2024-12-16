@@ -4,9 +4,8 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.eventmakerapp",
-      "sha256_cert_fingerprints": [
-       "F8:3E:75:22:69:80:8D:9C:CB:93:BB:F6:94:0A:BA:76:88:CD:83:AD:53:77:89:A5:DF:7F:C6:F2:BC:FF:D0:E6"
-      ]
+      "sha256_cert_fingerprints":
+        ["D4:4F:85:4B:C9:EF:9E:D0:C7:29:8A:77:B1:51:4A:08:A1:9C:33:72:E3:7B:C8:7F:B0:E9:5A:16:BD:7C:9A:E1"]
     }
   }
 ]
