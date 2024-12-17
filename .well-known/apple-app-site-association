@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "DJKPQ9MGC9.com.eventmaker.companion-app",
+        "paths": [ "*" ]
+      }
+    ]
+  }
+}
