@@ -2,11 +2,12 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "659W25F9TV.com.eventmaker.companion.franchiseexpoparis" ],
+             "appIDs": [ "DJKPQ9MGC9.com.eventmaker.companion.franchiseexpoparis" ],
+             "paths": [
+                "*"
+             ],
              "components": [
-               {
-                  "/": "*"
-               }
+               {"/": "/*"}
              ]
            }
        ]
