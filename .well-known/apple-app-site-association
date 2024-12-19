@@ -1,15 +1,33 @@
 {
+  "activitycontinuation": {
+    "apps": [
+      "DJKPQ9MGC9.com.eventmaker.companion.franchiseexpoparis"
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "DJKPQ9MGC9.com.eventmaker.companion.franchiseexpoparis"
+    ]
+  },
   "applinks": {
-      "details": [
-           {
-             "appIDs": [ "DJKPQ9MGC9.com.eventmaker.companion.franchiseexpoparis" ],
-             "paths": [
-                "*"
-             ],
-             "components": [
-               {"/": "/*"}
-             ]
-           }
-       ]
-   }
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "DJKPQ9MGC9.com.eventmaker.companion.franchiseexpoparis"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      },
+      {
+        "appID": "DJKPQ9MGC9.com.eventmaker.companion.franchiseexpoparis",
+        "paths": [
+          "/*"
+        ]
+      }
+    ]
+  }
 }
