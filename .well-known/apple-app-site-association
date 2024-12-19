@@ -7,10 +7,15 @@
                     "DJKPQ9MGC9.com.eventmaker.companion.franchiseexpoparis"
                 ],
                 "components": [
-                    {
-                        "/": "*"
-                    }
-                ]
+               {
+                  "/": "/test",
+                  "comment": "Matches any URL with a path that starts with /test."
+               },
+               {
+                  "/": "/redirect",
+                  "comment": "Matches any URL with a path that starts with /redirect."
+               }
+             ]
             }
         ]
     }
