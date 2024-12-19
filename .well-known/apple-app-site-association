@@ -1,26 +1,14 @@
 {
   "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appIDs": [
-          "DJKPQ9MGC9.com.eventmaker.companion.franchiseexpoparis"
-        ],
-        "components": [
-          {
-            "/": "/test",
-            "comment": "Matches any URL with a path that starts with /test."
-          },
-          {
-            "/": "/redirect",
-            "comment": "Matches any URL with a path that starts with /redirect."
-          },
-          {
-            "/": "*",
-            "comment": "Matches any URL. This ensures all URLs are handled by the app."
-          }
-        ]
-      }
-    ]
-  }
+      "details": [
+           {
+             "appIDs": [ "DJKPQ9MGC9.com.eventmaker.companion.franchiseexpoparis" ],
+             "components": [
+               {
+                  "/": "*"
+               }
+             ]
+           }
+       ]
+   }
 }
