@@ -1,15 +1,17 @@
 {
-  "applinks": {
-    "details": [
-      {
-        "appIDs": ["DJKPQ9MGC9.com.eventmaker.companion.franchiseexpoparis"],
-        "components": [
-          {
-            "/": "*",
-            "comment": "*"
-          }
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "DJKPQ9MGC9.com.eventmaker.companion.franchiseexpoparis"
+                ],
+                "components": [
+                    {
+                        "/": "*"
+                    }
+                ]
+            }
         ]
-      }
-    ]
-  }
+    }
 }
