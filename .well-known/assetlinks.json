@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.eventmakerfranchiseexpoparis",
+      "package_name": "com.eventmakerapp",
       "sha256_cert_fingerprints":
         [
           "D9:9A:D5:DC:09:9A:D7:D5:D1:4A:B3:70:09:7F:4A:2E:E0:D2:B0:C9:4C:2C:71:24:B5:30:F6:08:F6:7C:69:9F",
