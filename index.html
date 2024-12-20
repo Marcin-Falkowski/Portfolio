@@ -42,9 +42,14 @@
 
     <footer>
         <p>Thanks for visiting my profile!</p>
+
+        <button id="openInStoreBtn">Open in App</button>
     </footer>
+    
      <script>
-    var qs = AppRedirect.queryString;
+
+        document.getElementById('openInStoreBtn').addEventListener('click', function() {
+            var qs = AppRedirect.queryString;
 
     // Here we initiate the redirect process
     AppRedirect.redirect({
@@ -56,6 +61,8 @@
             'package': 'com.eventmakerfranchiseexpoparis', // Package name in Play store
             'fallback': 'https://play.google.com/store/apps/details?id=com.eventmakerfranchiseexpoparis&hl=pl'
         }
+        });
+   
 
     });
 
