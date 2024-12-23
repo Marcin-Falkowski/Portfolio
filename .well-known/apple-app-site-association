@@ -1,11 +1,1 @@
-{
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "DJKPQ9MGC9.com.eventmaker.companion.franchiseexpoparis",
-        "paths": ["*"]
-      }
-    ]
-  }
-}
+{"applinks":{"details":[{"appIDs":["DJKPQ9MGC9.com.eventmaker.companion.franchiseexpoparis"],"components":[{"/":"/*"}]},{"appID":"3DJKPQ9MGC9.com.eventmaker.companion.franchiseexpoparis","paths":["/*"]}]}}
