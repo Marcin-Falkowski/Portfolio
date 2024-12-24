@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marcin Falkowski's Profile</title>
+    <script src="https://cdn.jsdelivr.net/gh/MarketingPipeline/Markdown-Tag/markdown-tag.js"></script> 
+  </head>
+  <body>
+    <header>
+        <h1>Welcome to my profile! 👋</h1>
+        <p>Hello! I'm Marcin Falkowski, an experienced React Native mobile app developer with a solid background in web development. My passion lies in creating innovative and efficient mobile applications that deliver unforgettable user experiences.</p>
+    </header>
+
+  </body>
+</html>
